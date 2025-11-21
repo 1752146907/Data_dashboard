@@ -12,3 +12,6 @@
 
 #### Demo预览
  <a href="https://raw.githack.com/1752146907/Data_dashboard/main/view.html">点击 go~</a>
+ 
+#### 预览须知
+ 由于预览托管在GitHub，有时候网络不稳定，可直接下载本地打开view.html预览所有模版，或者查看gif文件夹，里面是所有模板的动图预览。
