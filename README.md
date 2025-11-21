@@ -6,9 +6,9 @@
 
 
 ```
-收集整理不易，如果觉得对您有帮助，欢迎 `Watch`、`Star`。当然也可以请我喝杯咖啡 💘感谢支持💘
+收集整理不易，如果觉得对您有帮助，欢迎 `Watch`、`Star`。当然也可以请我喝杯咖啡💘，谢谢！
 ```
 <p align="center"><img src="./weixinPlay.jpg" width="330" height="460" alt="微信赞赏码" /></p>
 
-#### 使用说明
-直接clone项目，然后打开view.html文件即可预览效果
+#### 在线预览
+ <a href="https://raw.githack.com/1752146907/Data_dashboard/main/view.html">点击预览</a>
